@@ -1,2 +1,2 @@
 # self-projects
-Repositório com projetos pessoais.
+Repositório de projetos pessoais.
